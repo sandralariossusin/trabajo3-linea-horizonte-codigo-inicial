@@ -4,6 +4,7 @@
 
 | 2020       | Team |          
 | ------------- |:-------------:| 
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo01-manana?branch=master&token=3507136ed0cbcfb1bb4c3ee1083322dd67f5b000)](https://bettercodehub.com/) | EQUIPO 01 MAÑANA |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo2-manana?branch=master&token=5fca1d6a8e862b52c4c96924a11ec43fc6112b67)](https://bettercodehub.com/) | EQUIPO 2 MAÑANA |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo03-manana?branch=master&token=469eaf050fc2729222e9a85e5e77e915bb1e7dde)](https://bettercodehub.com/)| EQUIPO 3 MAÑANA |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo05-manana?branch=master&token=60036332ea89f6c28ce5e158b33e06bed91a98fc)](https://bettercodehub.com/) | EQUIPO 5 MAÑANA |
@@ -15,6 +16,7 @@
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo01-tarde?branch=master&token=8d11265f0705e53c836645e5073a56240bf775b9)](https://bettercodehub.com/) | EQUIPO 1 TARDE |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo13-tarde?branch=master&token=ca0b85848779ba4af54550d70888f356145b7c65)](https://bettercodehub.com/) | EQUIPO 13 TARDE |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo06-tarde?branch=master&token=8e3eb7e6a4dbf7d5295f6b269349ac7aea6e8b73)](https://bettercodehub.com/) | EQUIPO 6 TARDE|
+
 
 
 The Better Code Hub scores are powered by the code quality industry benchmark of Software Improvement Group according to SIG/TÜViT Maintainability ISO 25010 model.
