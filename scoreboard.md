@@ -17,6 +17,7 @@
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo13-manana?branch=master&token=d1e6e590cb16c5ba3b4c2f1e5945475c95064138)](https://bettercodehub.com/) | EQUIPO 13 MAÑANA |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo14-manana?branch=master&token=b9fbf7fe754cda2d093a796fc40fdb4ad07a098f)](https://bettercodehub.com/) | EQUIPO 14 MAÑANA |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo15-manana?branch=master&token=6817ae7cdaeddd4a1b0711246ef9b15b28842f82)](https://bettercodehub.com/) | EQUIPO 15 MAÑANA |
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo16-manana?branch=master&token=091f99d307c0a9d599dc56342d34579092a88046)](https://bettercodehub.com/) | EQUIPO 16 MAÑANA |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo17-manana?branch=master&token=9105dc2ff08a4b911bbc82158a4db0917dbfd555)](https://bettercodehub.com/) | EQUIPO 17 MAÑANA |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo18-manana?branch=master&token=1dca3091bf54ac488556046789db28bfbfe5dfc5)](https://bettercodehub.com/) | EQUIPO 18 MAÑANA |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo19-manana?branch=master&token=4c8efc4c048a9739f81a823d2fc7a1d9c78a5331)](https://bettercodehub.com/) | EQUIPO 19 MAÑANA |
