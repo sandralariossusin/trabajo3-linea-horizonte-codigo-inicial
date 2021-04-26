@@ -17,7 +17,7 @@
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm32-ems2021-iwm32-07?branch=master&token=64b86b4e94af5c0ac43f2e26ce00bed5b9fad72b)](https://bettercodehub.com/) |iwm32-07|  
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm32-equipo08-manana?branch=master&token=70f4f80eb1758933649011251f5ffdda648d8796)](https://bettercodehub.com/) |iwm32-08|
 | **IWT31**                   |
-| ------------- |-------------| 
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo01-tarde?branch=master&token=8d11265f0705e53c836645e5073a56240bf775b9)](https://bettercodehub.com/) |iwt31-01| 
 | **IWT32**                   |
 | ------------- |-------------| 
 [![BCH compliance](https://bettercodehub.com/edge/badge/jmgaritagoitiaupm/trabajo3-linea-horizonte-codigo-inicial?branch=master)](https://bettercodehub.com/) |iwt32-JUANMA|
