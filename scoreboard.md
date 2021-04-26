@@ -21,7 +21,7 @@
 | **IWT32**                   |
 | ------------- |-------------| 
 [![BCH compliance](https://bettercodehub.com/edge/badge/jmgaritagoitiaupm/trabajo3-linea-horizonte-codigo-inicial?branch=master)](https://bettercodehub.com/) |iwt32-JUANMA|
-
+[![BCH compliance](https://bettercodehub.com/edge/badge/alonsodinavarro/trabajo3-linea-horizonte-codigo-inicial?branch=master)](https://bettercodehub.com/)   |iwt32-equipo01|
 
 The Better Code Hub scores are powered by the code quality industry benchmark of Software Improvement Group according to SIG/TÜViT Maintainability ISO 25010 model.
 
