@@ -17,9 +17,8 @@
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm32-ems2021-iwm32-07?branch=master&token=64b86b4e94af5c0ac43f2e26ce00bed5b9fad72b)](https://bettercodehub.com/) |iwm32-07|  
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm32-equipo08-manana?branch=master&token=70f4f80eb1758933649011251f5ffdda648d8796)](https://bettercodehub.com/) |iwm32-08|
 | **IWT31**                   |
-| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo09-tarde?branch=master&token=a7bb4ffd4f373164d7087e5b3bba6d2c2f2a1688)](https://bettercodehub.com/) |iwt31-Equipo09|
-| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo08-tarde?branch=master&token=e0704f8e962c7a4d931368fa0d8bce5ae8519a8d)](https://bettercodehub.com/) |giwt31-08|
-|[![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo07-tarde?branch=master&token=6e45576e7c18417b5c7f53f1fdd37cf5d23bed03)](https://bettercodehub.com/) |iwt31-07|
+|[![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-ems2021-iwt31-03?branch=master&token=f9ae1cc18072f85310352ffb39df09e54475977e)](https://bettercodehub.com/)|iwt31-03|
+|--------------|--------------|
 | **IWT32**                   |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt32-equipo08-iwt32?branch=master&token=2dde5a188112855f7579f68c1f2ece6e1454bc56)](https://bettercodehub.com/) |giwt32-08| 
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt32-ems2021-iwt32-06?branch=master&token=6e2e8972714b0768b12e38bb8dc7eaaf91dff8c2)](https://bettercodehub.com/) |IWT32-06| 
