@@ -18,9 +18,21 @@
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm32-equipo08-manana?branch=master&token=70f4f80eb1758933649011251f5ffdda648d8796)](https://bettercodehub.com/) |iwm32-08|
 | **IWT31**                   |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo01-tarde?branch=master&token=8d11265f0705e53c836645e5073a56240bf775b9)](https://bettercodehub.com/) |iwt31-01| 
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-ems2021-iwt31-05?branch=master&token=517bd283cb2fc972ea1ceb441e7edd97c35a1b99)](https://bettercodehub.com/) |iwt31-05|
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo02-tarde?branch=master&token=3cfc547950d8f3a5e5decd07bdb756d0d6327883)](https://bettercodehub.com/) |IWT31-02| 
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo06-tarde?branch=master&token=8e3eb7e6a4dbf7d5295f6b269349ac7aea6e8b73)](https://bettercodehub.com/) |iwt31-06| 
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-ems2021-iwt31-03?branch=master&token=f9ae1cc18072f85310352ffb39df09e54475977e)](https://bettercodehub.com/)|iwt31-03|
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-ems2021-iwt31-04?branch=master&token=915e2a1ce4abbfecb83abc4f3f0d588554dba714)](https://bettercodehub.com/) |iwt31-04| 
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo09-tarde?branch=master&token=a7bb4ffd4f373164d7087e5b3bba6d2c2f2a1688)](https://bettercodehub.com/) |iwt31-09|
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo08-tarde?branch=master&token=e0704f8e962c7a4d931368fa0d8bce5ae8519a8d)](https://bettercodehub.com/) |iwt31-08|
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo07-tarde?branch=master&token=6e45576e7c18417b5c7f53f1fdd37cf5d23bed03)](https://bettercodehub.com/) |iwt31-07|
 | **IWT32**                   |
-| ------------- |-------------| 
-[![BCH compliance](https://bettercodehub.com/edge/badge/jmgaritagoitiaupm/trabajo3-linea-horizonte-codigo-inicial?branch=master)](https://bettercodehub.com/) |iwt32-JUANMA|
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt32-equipo08-iwt32?branch=master&token=2dde5a188112855f7579f68c1f2ece6e1454bc56)](https://bettercodehub.com/) |giwt32-08| 
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt32-ems2021-iwt32-06?branch=master&token=6e2e8972714b0768b12e38bb8dc7eaaf91dff8c2)](https://bettercodehub.com/) |IWT32-06| 
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt32-equipo03-tarde?branch=master&token=1e37a31cda6097faf15e5501bfacbb4a51f1345b)](https://bettercodehub.com/) |iwt32-03| 
+| [![BCH compliance](https://bettercodehub.com/edge/badge/jmgaritagoitiaupm/trabajo3-linea-horizonte-codigo-inicial?branch=master)](https://bettercodehub.com/) |iwt32-JUANMA|
+| [![BCH compliance](https://bettercodehub.com/edge/badge/alonsodinavarro/trabajo3-linea-horizonte-codigo-inicial?branch=master)](https://bettercodehub.com/)   |iwt32-equipo01|
+
 
 
 The Better Code Hub scores are powered by the code quality industry benchmark of Software Improvement Group according to SIG/TÜViT Maintainability ISO 25010 model.
