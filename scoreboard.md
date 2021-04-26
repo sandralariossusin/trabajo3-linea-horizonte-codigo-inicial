@@ -19,7 +19,7 @@
 | **IWT31**                   |
 | ------------- |-------------| 
 | **IWT32**                   |
-| ------------- |-------------| 
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt32-ems2021-iwt32-06?branch=master&token=6e2e8972714b0768b12e38bb8dc7eaaf91dff8c2)](https://bettercodehub.com/) |IWT32-06| 
 
 
 The Better Code Hub scores are powered by the code quality industry benchmark of Software Improvement Group according to SIG/TÜViT Maintainability ISO 25010 model.
