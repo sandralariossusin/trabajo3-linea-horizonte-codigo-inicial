@@ -6,7 +6,7 @@
 | ------------- |-------------| 
 | IWM31                       | 
 | ------------- |-------------| 
-| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-ems2021-iwm31-equipo05?branch=master&token=ef720eac7f4b0792c765cfdb5b65e6f4eafa8a49)](https://bettercodehub.com/)| IWM31_05|
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-ems2021-iwm31-equipo05?branch=master&token=fb9da2cf08345ce089a163232f6bf341ecb75cd8)](https://bettercodehub.com/)| IWM31_05|
 | IWM32                       |
 | ------------- |-------------| 
 | IWT31                       |
