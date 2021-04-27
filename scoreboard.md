@@ -5,9 +5,9 @@
 | Badge         | Team        |          
 | ------------- |-------------| 
 | IWM31                       | 
-| ![BCH compliance](https://bettercodehub.com/edge/badge/daniilcebanu/trabajo3-aplicacion-agestion-codigo-inicial?branch=master)|iwm31-07|
+| [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm31-equipo07-manana?branch=master&token=2dd10328e2ebb47fbb779fb430d9951958582f95)|IWM31-Equipo07|
 | IWM32                       |
-| ![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwm32-ems2021-iwm32-04?branch=master&token=a4d5a9cb8e234b67252c445dfbccc90b5c479f6d)|iwm32-04| 
+|                             |
 | ------------- |-------------| 
 | IWT31                       |
 | ------------- |-------------| 
